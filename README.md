@@ -1,0 +1,2 @@
+# bitcoin-Neccer
+Client seed 421aaf15 Server seed 91e227f6fe8eb054f11ab2a358c360f5 Server seed hash 3ac624d93da9bdd21b5d95c8c4feb30e336673d41831c50454808e958325ef0b
