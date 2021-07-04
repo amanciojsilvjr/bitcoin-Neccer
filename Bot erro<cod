@@ -1,0 +1,53 @@
+in 408908c6d70af2023e05b5f13a9e8d81 line 42
+at CompilerEngine->handleViewException(object(ErrorException), '1') in compiled.php line 14772
+at PhpEngine->evaluatePath('/var/www/vhosts/codepad.co/httpdocs/storage/framework/views/408908c6d70af2023e05b5f13a9e8d81', array('__env' => object(Factory), 'app' => object(Application), 'errors' => object(ViewErrorBag), 'snippet_types' => array('ActionScript', 'Ajax', 'AngularJS', 'Apache', 'AppleScript', 'ASP.NET', 'Bash', 'C', 'C#', 'C++', 'Coffee', 'CoffeeScript', 'ColdFusion', 'Command', 'CSS', 'Delphi', 'Django', 'ES6', 'GLSL', 'Grunt', 'Gulp', 'HAML', 'Haskell', 'HTML', 'iOS', 'Jade', 'Java', 'JavaScript', 'jQuery', 'JSX', 'Less', 'LUA', 'MDX', 'MySQL', 'Objective', 'Other', 'Pascal', 'Perl', 'PHP', 'Plain text', 'PowerShell', 'Processing', 'Progress', 'Prolog', 'Pseudocode', 'Python', 'Rails', 'RegExr', 'Ruby', 'SASS', 'Scala', 'Scheme', 'SCSS', 'SmallBASIC', 'Smarty', 'SQL', 'Stylus', 'SVG', 'Swift', 'TypeScript', 'VHDL', 'X++', 'XHTML', 'XML', 'Xojo', 'XSLT'), 'snippet' => null, 'snippet_collections' => array(), 'user_collections' => array(), 'snippet_types_with_code' => '{"167":"actionscript","168":"javascript","169":"javascript","170":"apache_conf","171":"applescript","172":"vbscript","173":"sh","174":"c_cpp","176":"c_cpp","177":"c_cpp","234":"coffee","228":"javascript","178":"coldfusion","179":"sh","180":"css","181":"vbscript","183":"django","233":"javascript","229":"c_cpp","185":"javascript","186":"javascript","187":"haml","237":"haskell","188":"html","189":"objectivec","191":"jade","192":"java","193":"javascript","194":"javascript","239":"jsx","195":"less","242":"lua","243":"sql","198":"mysql","199":"objectivec","200":"properties","201":"pascal","202":"perl","203":"php","241":"text","204":"powershell","205":"properties","230":"sql","206":"prolog","207":"properties","208":"python","209":"ruby","210":"properties","212":"ruby","213":"sass","214":"scala","215":"scheme","227":"scss","238":"python","216":"smarty","217":"sql","232":"stylus","240":"svg","219":"swift","235":"typescript","221":"vhdl","236":"c_cpp","223":"html","224":"xml","225":"javascript","226":"xml"}', 'meta' => object(Meta), 'snippet_symbols_count' => '110321093', 'user_notifications' => object(LengthAwarePaginator), 'user_has_new_notifications' => false, 'snippet_types_search' => array('ActionScript', 'Ajax', 'AngularJS', 'Apache', 'AppleScript', 'ASP.NET', 'Bash', 'C', 'C#', 'C++', 'Coffee', 'CoffeeScript', 'ColdFusion', 'Command', 'CSS', 'Delphi', 'Django', 'ES6', 'GLSL', 'Grunt', 'Gulp', 'HAML', 'Haskell', 'HTML', 'iOS', 'Jade', 'Java', 'JavaScript', 'jQuery', 'JSX', 'Less', 'LUA', 'MDX', 'MySQL', 'Objective', 'Other', 'Pascal', 'Perl', 'PHP', 'Plain text', 'PowerShell', 'Processing', 'Progress', 'Prolog', 'Pseudocode', 'Python', 'Rails', 'RegExr', 'Ruby', 'SASS', 'Scala', 'Scheme', 'SCSS', 'SmallBASIC', 'Smarty', 'SQL', 'Stylus', 'SVG', 'Swift', 'TypeScript', 'VHDL', 'X++', 'XHTML', 'XML', 'Xojo', 'XSLT'), 'banner_content' => '')) in compiled.php line 14806
+at CompilerEngine->get('/var/www/vhosts/codepad.co/httpdocs/resources/views/users/snippets/create.blade.php', array('__env' => object(Factory), 'app' => object(Application), 'errors' => object(ViewErrorBag), 'snippet_types' => array('ActionScript', 'Ajax', 'AngularJS', 'Apache', 'AppleScript', 'ASP.NET', 'Bash', 'C', 'C#', 'C++', 'Coffee', 'CoffeeScript', 'ColdFusion', 'Command', 'CSS', 'Delphi', 'Django', 'ES6', 'GLSL', 'Grunt', 'Gulp', 'HAML', 'Haskell', 'HTML', 'iOS', 'Jade', 'Java', 'JavaScript', 'jQuery', 'JSX', 'Less', 'LUA', 'MDX', 'MySQL', 'Objective', 'Other', 'Pascal', 'Perl', 'PHP', 'Plain text', 'PowerShell', 'Processing', 'Progress', 'Prolog', 'Pseudocode', 'Python', 'Rails', 'RegExr', 'Ruby', 'SASS', 'Scala', 'Scheme', 'SCSS', 'SmallBASIC', 'Smarty', 'SQL', 'Stylus', 'SVG', 'Swift', 'TypeScript', 'VHDL', 'X++', 'XHTML', 'XML', 'Xojo', 'XSLT'), 'snippet' => null, 'snippet_collections' => array(), 'user_collections' => array(), 'snippet_types_with_code' => '{"167":"actionscript","168":"javascript","169":"javascript","170":"apache_conf","171":"applescript","172":"vbscript","173":"sh","174":"c_cpp","176":"c_cpp","177":"c_cpp","234":"coffee","228":"javascript","178":"coldfusion","179":"sh","180":"css","181":"vbscript","183":"django","233":"javascript","229":"c_cpp","185":"javascript","186":"javascript","187":"haml","237":"haskell","188":"html","189":"objectivec","191":"jade","192":"java","193":"javascript","194":"javascript","239":"jsx","195":"less","242":"lua","243":"sql","198":"mysql","199":"objectivec","200":"properties","201":"pascal","202":"perl","203":"php","241":"text","204":"powershell","205":"properties","230":"sql","206":"prolog","207":"properties","208":"python","209":"ruby","210":"properties","212":"ruby","213":"sass","214":"scala","215":"scheme","227":"scss","238":"python","216":"smarty","217":"sql","232":"stylus","240":"svg","219":"swift","235":"typescript","221":"vhdl","236":"c_cpp","223":"html","224":"xml","225":"javascript","226":"xml"}', 'meta' => object(Meta), 'snippet_symbols_count' => '110321093', 'user_notifications' => object(LengthAwarePaginator), 'user_has_new_notifications' => false, 'snippet_types_search' => array('ActionScript', 'Ajax', 'AngularJS', 'Apache', 'AppleScript', 'ASP.NET', 'Bash', 'C', 'C#', 'C++', 'Coffee', 'CoffeeScript', 'ColdFusion', 'Command', 'CSS', 'Delphi', 'Django', 'ES6', 'GLSL', 'Grunt', 'Gulp', 'HAML', 'Haskell', 'HTML', 'iOS', 'Jade', 'Java', 'JavaScript', 'jQuery', 'JSX', 'Less', 'LUA', 'MDX', 'MySQL', 'Objective', 'Other', 'Pascal', 'Perl', 'PHP', 'Plain text', 'PowerShell', 'Processing', 'Progress', 'Prolog', 'Pseudocode', 'Python', 'Rails', 'RegExr', 'Ruby', 'SASS', 'Scala', 'Scheme', 'SCSS', 'SmallBASIC', 'Smarty', 'SQL', 'Stylus', 'SVG', 'Swift', 'TypeScript', 'VHDL', 'X++', 'XHTML', 'XML', 'Xojo', 'XSLT'), 'banner_content' => '')) in compiled.php line 14639
+at View->getContents() in compiled.php line 14627
+at View->renderContents() in compiled.php line 14611
+at View->render() in compiled.php line 15771
+at Response->setContent(object(View)) in compiled.php line 15288
+at Response->__construct(object(View)) in compiled.php line 7740
+at Router->prepareResponse(object(Request), object(View)) in compiled.php line 8972
+at ControllerDispatcher->Illuminate\Routing\{closure}(object(Request))
+at call_user_func(object(Closure), object(Request)) in compiled.php line 9643
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request))
+at call_user_func(object(Closure), object(Request)) in compiled.php line 9625
+at Pipeline->then(object(Closure)) in compiled.php line 8973
+at ControllerDispatcher->callWithinStack(object(SnippetsController), object(Route), object(Request), 'create') in compiled.php line 8958
+at ControllerDispatcher->dispatch(object(Route), object(Request), 'App\Http\Controllers\User\SnippetsController', 'create') in compiled.php line 7907
+at Route->runWithCustomDispatcher(object(Request)) in compiled.php line 7878
+at Route->run(object(Request)) in compiled.php line 7531
+at Router->Illuminate\Routing\{closure}(object(Request))
+at call_user_func(object(Closure), object(Request)) in compiled.php line 9643
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request))
+at call_user_func(object(Closure), object(Request)) in compiled.php line 9625
+at Pipeline->then(object(Closure)) in compiled.php line 7532
+at Router->runRouteWithinStack(object(Route), object(Request)) in compiled.php line 7520
+at Router->dispatchToRoute(object(Request)) in compiled.php line 7505
+at Router->dispatch(object(Request)) in compiled.php line 2310
+at Kernel->Illuminate\Foundation\Http\{closure}(object(Request))
+at call_user_func(object(Closure), object(Request)) in compiled.php line 9643
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request)) in compiled.php line 2925
+at VerifyCsrfToken->handle(object(Request), object(Closure)) in VerifyCsrfToken.php line 38
+at VerifyCsrfToken->handle(object(Request), object(Closure))
+at call_user_func_array(array(object(VerifyCsrfToken), 'handle'), array(object(Request), object(Closure))) in compiled.php line 9635
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request)) in compiled.php line 12994
+at ShareErrorsFromSession->handle(object(Request), object(Closure))
+at call_user_func_array(array(object(ShareErrorsFromSession), 'handle'), array(object(Request), object(Closure))) in compiled.php line 9635
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request)) in compiled.php line 11586
+at StartSession->handle(object(Request), object(Closure))
+at call_user_func_array(array(object(StartSession), 'handle'), array(object(Request), object(Closure))) in compiled.php line 9635
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request)) in compiled.php line 12731
+at AddQueuedCookiesToResponse->handle(object(Request), object(Closure))
+at call_user_func_array(array(object(AddQueuedCookiesToResponse), 'handle'), array(object(Request), object(Closure))) in compiled.php line 9635
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request)) in compiled.php line 12668
+at EncryptCookies->handle(object(Request), object(Closure))
+at call_user_func_array(array(object(EncryptCookies), 'handle'), array(object(Request), object(Closure))) in compiled.php line 9635
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request)) in compiled.php line 2982
+at CheckForMaintenanceMode->handle(object(Request), object(Closure))
+at call_user_func_array(array(object(CheckForMaintenanceMode), 'handle'), array(object(Request), object(Closure))) in compiled.php line 9635
+at Pipeline->Illuminate\Pipeline\{closure}(object(Request))
+at call_user_func(object(Closure), object(Request)) in compiled.php line 9625
+at Pipeline->then(object(Closure)) in compiled.php line 2257
+at Kernel->sendRequestThroughRouter(object(Request)) in compiled.php line 2240
+at Kernel->handle(object(Request)) in index.php line 53
