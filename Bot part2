@@ -1,6 +1,8 @@
 
 
-
+idioma : node_js
+node_js :
+- " nó "
 
 node_modules
 config.js
